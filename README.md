@@ -9,7 +9,7 @@ Benvenuto sul mio profilo **GitHub**! Sono un studente in Informatica all'Univer
 * **Linguaggi di Programmazione:** Java, JavaScript, C, C++
 * **Tecnologie** **Backend**: **JAVAEE**
 * **Database**: MySQL, SQL
-* **IDE** & Ambienti di Sviluppo: IntelliJ, PyCharm, Eclipse, Android Studio
+* **IDE & Ambienti di Sviluppo**: IntelliJ, PyCharm, Eclipse, Android Studio
 * Strumenti di Modellazione: Visual Paradigm
 
 ---
