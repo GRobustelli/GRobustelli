@@ -19,17 +19,8 @@ Benvenuto sul mio profilo **GitHub**! Sono un studente in Informatica all'Univer
 * **Riabooks** - Piccolo sito e-commmerce sulla vendita di libri.  
   👉 [Vedi **Riabooks**](https://github.com/GRobustelli/Riabooks.git)
 
-* **EWMS** - Easy Work Management System, un piccola web application per comunicazione asincrona tra supervisore e dipendenti di piccole medie aziende
+* **EWMS** - Easy Work Management System, un piccola web application per comunicazione asincrona tra supervisore e dipendenti di piccole medie aziende.
   👉 [Vedi **EWMS**](https://github.com/GRobustelli/Progetto_EWMS.git)
-
----
-
-### 📊 Statistiche **GitHub**
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GRobustelli&show_icons=true&theme=visual_studio_code" alt="Le mie statistiche su GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRobustelli&layout=compact&theme=visual_studio_code" alt="I linguaggi più usati" height="150" />
-</p>
 
 ---
 
